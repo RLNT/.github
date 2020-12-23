@@ -7,10 +7,9 @@
 ---
 
 ## **📑 Overview**
-This repository holds default community health files for the organization [RLNT].
+This repository holds the [default community health files][health files] for the organization [RLNT].
 
-Each repository which is missing one of the [GitHub health files][health files] will redirect the user to the templates in this repository.
-
+Each repository missing any of the [health files] will redirect the user to the templates in this repository.<br>
 More about that can be read [here][default health files docs].
 
 
