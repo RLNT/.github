@@ -41,7 +41,7 @@ To save your and our time, we will close all issues that are requests for genera
 The issue tracker is the preferred method to report bugs and request features.
 
 It serves two purposes:
-1. structuring the contributions into logic aspects
+1. structuring the contributions into logical aspects
 2. keeping the community involved in what's going on
 
 Please respect the following restrictions:
